@@ -1,0 +1,126 @@
+{
+	"categories": [
+		{
+			"id": 0,
+			"title": "Meal",
+			"type": "menu",
+			"sortId": 0
+		},
+		{
+			"id": 1,
+			"title": "Drinks",
+			"type": "menu",
+			"sortId": 1
+		}
+	],
+	"positions": [
+		{
+			"id": 0,
+			"categoryId": 0,
+			"title" : "Profitroly",
+			"description": "Какая то хрень из сладкого с кремом внутри.",
+			"composition": "",
+			"price": "",
+			"calories": "",
+			"sortId": 0,
+			"img": "",
+			"tags": []
+		}, 
+		{
+			"id": 1,
+			"categoryId": 0,
+			"title" : "Sugar",
+			"description": "Кипяченая кровь мертвого сахарного тростника.",
+			"composition": "",
+			"price": "",
+			"calories": "",
+			"sortId": 1,
+			"img": "",
+			"tags": []
+		}, 
+		{
+			"id": 2,
+			"categoryId": 0,
+			"title" : "Lemons",
+			"description": "Желтые машины концентрированного страдания. Вы только посмотрите на лица тех кто их едят.",
+			"composition": "",
+			"price": "",
+			"calories": "",
+			"sortId": 2,
+			"img": "",
+			"tags": []
+		}, 
+		{
+			"id": 3,
+			"categoryId": 0,
+			"title" : "Vedro shchashlika",
+			"description": "Если бы пятачок знал что окажется у нас он умер с улыбкой на мордочке.",
+			"composition": "",
+			"price": "",
+			"calories": "",
+			"sortId": 2,
+			"img": "",
+			"tags": []
+		}, 
+		{
+			"id": 4,
+			"categoryId": 0,
+			"title" : "Lemons",
+			"description": "Желтые машины концентрированного страдания. Вы только посмотрите на лица тех кто их едят.",
+			"composition": "",
+			"price": "",
+			"calories": "",
+			"sortId": 2,
+			"img": "",
+			"tags": []
+		}, 
+		{
+			"id": 5,
+			"categoryId": 0,
+			"title" : "Lemons",
+			"description": "Желтые машины концентрированного страдания. Вы только посмотрите на лица тех кто их едят.",
+			"composition": "",
+			"price": "",
+			"calories": "",
+			"sortId": 2,
+			"img": "",
+			"tags": []
+		}, 
+		{
+			"id": 6,
+			"categoryId": 1,
+			"title" : "Samogon",
+			"description": "Дистилированные слезы родины.",
+			"composition": "",
+			"price": "",
+			"calories": "",
+			"sortId": 2,
+			"img": "",
+			"tags": []
+		}, 
+		{
+			"id": 7,
+			"categoryId": 1,
+			"title" : "Yaschik konjaka",
+			"description": "Вам будет что рассказать вашим детям. В каждом пятом ящике на дне сюрприз, жена и ребенок в подарок.",
+			"composition": "",
+			"price": "",
+			"calories": "",
+			"sortId": 2,
+			"img": "",
+			"tags": []
+		},
+		{
+			"id": 8,
+			"categoryId": 1,
+			"title" : "Vodka",
+			"description": "Вечная классика. Осторожно, в составе наличиствуют включения дигидроген монооксида, возможно привыкание.",
+			"composition": "",
+			"price": "",
+			"calories": "",
+			"sortId": 2,
+			"img": "",
+			"tags": []
+		}
+	]
+}
